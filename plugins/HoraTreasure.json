@@ -1,0 +1,18 @@
+{
+  "slug": "HoraTreasure",
+  "name": "treasure",
+  "license": "proprietary",
+  "version": "0.5.0",
+  "homepage": "https://www.facebook.com/Hora-Music-1826383014249093/?ref=br_rs",
+  "downloads": {
+    "win": {
+      "download": "https://gumroad.com/horamusic#"
+    },
+    "lin": {
+      "download": "https://gumroad.com/horamusic#"
+    },
+    "mac": {
+      "download": "https://gumroad.com/horamusic#"
+    }
+  }
+}
